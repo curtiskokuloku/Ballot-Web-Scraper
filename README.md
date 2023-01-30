@@ -23,7 +23,7 @@ The Scraper uses Java Libraries JSoup and Selenium to parse HTML url and javascr
 
 
 #### Use 
- - `mvm clean install' in your command line to install the libraries`
+ - `'mvm clean install' in your command line to install the libraries`
 
 ### Download Chrome web driver here:
 > https://chromedriver.chromium.org/downloads
